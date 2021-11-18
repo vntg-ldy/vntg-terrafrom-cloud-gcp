@@ -6,7 +6,7 @@ variable "vpc_project_name" {
 variable "vpc_name" {
   description = "VPC의 Resource name"
   type        = string
-  default     = "tc-vpc-1"
+  default     = "tc-vpc-2"
 }
 
 variable "vpc_routing_mode" {
