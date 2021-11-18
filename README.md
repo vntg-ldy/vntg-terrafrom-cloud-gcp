@@ -2,7 +2,6 @@
 > 이 프로젝트는 Terraform Cloud 실습 용 프로젝트로 실사용이 불가능한 프로젝트입니다.
 
 ## Getting started
-> Repository 복사 후 <PROJECT_ID>, <REGION_NAME> 에 대한 부분을 수정해주세요.
 
 먼저 Terraform 설치되어 있는지 확인합니다.
 ```shell
