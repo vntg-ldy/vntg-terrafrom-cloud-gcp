@@ -30,5 +30,4 @@ $ terraform apply
 ```
 
 ## Reference
-- [Confluence wiki](https://vntg.atlassian.net/wiki/spaces/INFRA/pages/206307396/Terraform)
 - [HashiCorp doc](https://www.terraform.io/docs/index.html)
